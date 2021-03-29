@@ -1,6 +1,4 @@
-# Sentdex-Tutorial
-
-All the coding application from the tutorial.
+# Machine Learning Guide
 
 Models From Scratch:
 1. [Linear Regression](https://github.com/mSounak/Sentdex-Tutorial/blob/149011cbe4e736c6cdf8e4e95103d0dc391fd201/Regression-BTS.ipynb)
