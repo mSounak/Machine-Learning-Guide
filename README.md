@@ -3,9 +3,9 @@
 All the coding application from the tutorial.
 
 Models From Scratch:
-1. [Linear Regression](https://github.com/mSounak/Sentdex-Tutorial/blob/main/Regression-BTS.ipynb)
-2. [K-NearestNeighbors](https://github.com/mSounak/Sentdex-Tutorial/blob/3b2c56e1c2a7145d08db1e5b46e3cec94ea2a4ce/KNN-BTS.ipynb)
-3. [Support Vector Machine](https://github.com/mSounak/Sentdex-Tutorial/blob/main/SVM-Scratch.ipynb)
+1. [Linear Regression](https://github.com/mSounak/Sentdex-Tutorial/blob/149011cbe4e736c6cdf8e4e95103d0dc391fd201/Regression-BTS.ipynb)
+2. [K-NearestNeighbors](https://github.com/mSounak/Sentdex-Tutorial/blob/149011cbe4e736c6cdf8e4e95103d0dc391fd201/KNN-BTS.ipynb)
+3. [Support Vector Machine](https://github.com/mSounak/Sentdex-Tutorial/blob/149011cbe4e736c6cdf8e4e95103d0dc391fd201/SVM-Scratch.ipynb)
 
 Article on:
 1. [SVM model from scratch](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
